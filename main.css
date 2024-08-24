@@ -1,4 +1,29 @@
 h1 {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+ font-size: 40px;
+ font-family: Arial
+}
+h2 {
+ font-size: 25px;
+ font-family: Arial
+}
+h3 {
+ font-family: Arial
+}
+p {
+ font-size: 14px;
+ font-family: Arial
+}
+div {
+ background-color: darkcyan;
+ text-align: right;
+}
+
+
+=======
+>>>>>>> Stashed changes
   font-size: 40px;
   font-family: Arial
   }
@@ -20,4 +45,9 @@ h1 {
   font-family: Arial
   }
   tr:nth-child(odd) {background-color: #f2f2f2;}
+<<<<<<< Updated upstream
   
+=======
+  
+>>>>>>> origin/add-table
+>>>>>>> Stashed changes
